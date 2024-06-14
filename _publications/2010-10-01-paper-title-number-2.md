@@ -3,7 +3,7 @@ title: "Need for transgender-specific data from Asia"
 collection: publications
 permalink: /publication/2
 excerpt: 'This correspondence piece calls for collecting gender identity data in Asia.'
-venue: 'Lancet HIV'
+venue: 'The Lancet HIV'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
 
