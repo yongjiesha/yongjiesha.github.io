@@ -1,6 +1,6 @@
 ---
 title: "Social Needs Screening in Safety Net Clinics"
-collection: research projects
+collection: researchprojects
 permalink: /researchprojects/sdoh
 excerpt: 'This is an ongoing project.'
 ---
