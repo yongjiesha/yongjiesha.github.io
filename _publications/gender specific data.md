@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2
 excerpt: 'This correspondence piece calls for collecting gender identity data in Asia.'
 venue: 'The Lancet HIV'
-date: 2021-6
+date: 2021-6-1
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 ---
 
