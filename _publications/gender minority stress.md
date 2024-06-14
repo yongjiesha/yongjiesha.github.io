@@ -3,6 +3,7 @@ title: "Gender minority stress and access to health care services among transgen
 collection: publications
 permalink: /publication/1
 excerpt: 'This paper examined gender minority stress and access to gender-affirming health services among transgender women and tranfeminine individuals in China.'
+venue: 'BMC Infectious Diseases'
 paperurl: 'https://link.springer.com/article/10.1186/s12879-021-06782-5'
 ---
 
