@@ -10,6 +10,6 @@ Interested? Send me an email or fill out the following survey to let me know!
 
 Survey link for healthcare practitioners who have experience with social needs screening: 
 
-<a href="https://bit.ly/4aLZCMQ">
+[https://bit.ly/4aLZCMQ](https://bit.ly/4aLZCMQ)
 
 <br/><img src='/images/bit.ly_4aLZCMQ.png'>
