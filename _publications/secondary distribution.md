@@ -8,6 +8,8 @@ venue: 'Sexual Health'
 paperurl: 'https://www.publish.csiro.au/sh/SH21176'
 ---
 
+Abstract
+
 Background: Social network approaches to testing allow individuals (indexes) to distribute tests to social networks (alters). This quasi-experimental study compared two social network-based testing strategies in promoting human immunodeficiency virus (HIV) testing among Chinese gay, bisexual, and other men who have sex with men (GBMSM).
 
 Methods: GBMSM aged ≥18 years were recruited from Guangzhou, China. From May to September 2019, indexes could distribute blood-based HIV/syphilis dual self-testing kits to people within their social network. Indexes recruited from October 2019 to January 2020 could send HIV testing cards to their social networks for free facility-based tests. Alters were encouraged to upload a photo verification of test results. Indexes and alters received incentives during both periods.

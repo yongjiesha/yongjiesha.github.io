@@ -1,7 +1,7 @@
 ---
 title: "Need for transgender-specific data from Asia"
 collection: publications
-#permalink: /publication/2
+permalink: /publication/2
 excerpt: 'This correspondence piece calls for collecting gender identity data in Asia.'
 venue: 'The Lancet HIV'
 date: 2021-6-1
