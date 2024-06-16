@@ -12,4 +12,4 @@ Survey link for healthcare practitioners who have experience with social needs s
 
 https://bit.ly/4aLZCMQ
 
-<br/><img src='/images/500x300.png'>
+<br/><img src='/images/bit.ly_4aLZCMQ.png'>
