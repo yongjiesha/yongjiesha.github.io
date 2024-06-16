@@ -8,6 +8,8 @@ venue: 'BMC Public Health'
 paperurl: 'https://link.springer.com/article/10.1186/s12889-022-14117-5'
 ---
 
+See below for the abstract.
+
 Background
 
 Adherent pre-exposure prophylaxis (PrEP) uptake can prevent HIV infections. Despite the high HIV incidence, Chinese key populations have low PrEP uptake and adherence. New interventions are needed to increase PrEP adherence among key populations in China. Co-creation methods are helpful to solicit ideas from the community to solve public health problems. The study protocol aims to describe the design of a stepped-wedge trial and to evaluate the efficacy of co-created interventions to facilitate PrEP adherence among key populations in China.

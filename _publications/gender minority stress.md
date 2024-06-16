@@ -8,6 +8,8 @@ date: 2021-12-1
 paperurl: 'https://link.springer.com/article/10.1186/s12879-021-06782-5'
 ---
 
+See below for the abstract.
+
 Background
 
 Transgender and gender diverse individuals often face structural barriers to health care because of their gender minority status. The aim of this study was to examine the association between gender minority stress and access to specific health care services among transgender women and transfeminine people in China.

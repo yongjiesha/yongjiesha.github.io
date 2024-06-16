@@ -1,12 +1,14 @@
 ---
 title: "Need for transgender-specific data from Asia"
 collection: publications
-permalink: /publication/2
+#permalink: /publication/2
 excerpt: 'This correspondence piece calls for collecting gender identity data in Asia.'
 venue: 'The Lancet HIV'
 date: 2021-6-1
 paperurl: 'https://www.thelancet.com/journals/lanhiv/article/PIIS2352-3018(21)00080-1/fulltext'
 ---
+
+Full text
 
 In The Lancet HIV, Venkatesan Chakrapani1 commented on the study by Adrian D Smith and colleagues and suggested transgender-specific data collection to inform the redress of health inequalities. We believe heeding this call for transgender-specific data could benefit efforts in Asia to identify gaps in HIV response for transgender people.
 
