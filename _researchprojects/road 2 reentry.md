@@ -8,4 +8,4 @@ The project is a 2-year community-based study with a goal to use data to underst
 
 For more information about the study, including how to participate, check out the study website:
 
-[https://www.road2reentrystudy.com/](https://www.road2reentrystudy.com/)
+<https://www.road2reentrystudy.com/>
