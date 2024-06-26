@@ -1,7 +1,7 @@
 ---
 title: "UnityPhilly Response App for Overdose Reversal"
 collection: researchprojects
-permalink: /researchprojects/up
+permalink: /researchprojects/unityphilly
 excerpt: 'I work with Dr. Gabriela Marcu on the design and testing of the UnityPhilly app. The study aims to design a mobile app to support laypersons' responses to overdose incidents in Philadelphia.'
 ---
 
