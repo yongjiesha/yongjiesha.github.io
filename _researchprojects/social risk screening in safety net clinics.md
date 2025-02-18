@@ -1,5 +1,5 @@
 ---
-title: "Social Needs Screening in Safety Net Clinics"
+title: "Social Care Integration in Community Health Settings"
 collection: researchprojects
 permalink: /researchprojects/sdoh
 excerpt: 'This is an ongoing effort to understand how we can design technologies to assist in community-level alignment for social care integration. If you have experience with collecting social determinants of health information or addressing social needs in community health settings, I would like to hear from you! Check out the link for more information.'
