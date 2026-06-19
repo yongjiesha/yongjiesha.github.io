@@ -11,14 +11,6 @@ I am a PhD student at the University of Michigan School of Information. My resea
 
 My work examines how AI is developed, implemented, and evaluated in real-world settings, with particular attention to use cases, value propositions of AI across different use cases, and outcomes that are prioritized in evaluation. To this end, I have interviewed providers across multiple health care and human service organizations in Michigan to assess their perceived value proposition of a social needs screening chatbot. I have also conducted a systematic literature review to further identify AI use cases for social care integration and understand providers' trust in these applications. 
 
-Collectively, this work has led me to focus on three interrelated research areas:
-
-1. AI-based interventions for social care integration focusing on patient-centered goals.
-
-2. Trustworthy AI in the context of social care.
-
-3. Future of work.
-
 Previously, I have written and researched in the space of substance use and HIV prevention, including applying feminist theories to design a mobile app for overdose reversals in Philadelphia and community-based participatory research to improve HIV preventive outcomes among LGBTQ communities in China.
 
 I identify with a rather fuzzy epistemology, meaning I enjoy both evidence-based and interpretivist approaches to research. I believe that decentralized and participatory methods of health technology design can foster a more democratic health ecosystem and contribute to a more equitable health future for all.
