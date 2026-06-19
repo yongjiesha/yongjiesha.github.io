@@ -17,7 +17,7 @@ Collectively, this work has led me to focus on three interrelated research areas
 
 2. Trustworthy AI in the context of social care.
 
-3. Future of relational care work.
+3. Future of work.
 
 Previously, I have written and researched in the space of substance use and HIV prevention, including applying feminist theories to design a mobile app for overdose reversals in Philadelphia and community-based participatory research to improve HIV preventive outcomes among LGBTQ communities in China.
 
